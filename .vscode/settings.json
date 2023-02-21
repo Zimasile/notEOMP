@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "bzhdvett8ogkjwcrtawb",
+            "username": "uofwxofrteouzy2p",
+            "database": "bzhdvett8ogkjwcrtawb",
+            "connectionTimeout": 60
+        }
+    ],
+    "cSpell.words": [
+        "jtbookstore"
+    ]
+}
